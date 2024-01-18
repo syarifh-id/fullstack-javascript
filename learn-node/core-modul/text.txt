@@ -1,0 +1,1 @@
+menuliskan text secara Asynchronous kedalam file

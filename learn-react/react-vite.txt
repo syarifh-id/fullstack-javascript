@@ -1,0 +1,19 @@
+cara menggunakan vite dalam mengembangakan apliksi front-end dengan framework reactjs 
+
+penggunaan cra(create-react-app) semakin ditinggalkan karena banyak bloatware yang tidak diperlukan. sehingga memakan banyak penyimpanan da tidak efisian waktu untuk mendownload dependency yang akan digunakan, selain itu juga terdapat alasan keamanan pada metode ini
+menggunakan vite lebih bersih bebas bloatware dll
+
+dapat menggunakan pnpm, nmp, yarn.
+
+
+#pnpm create vite my-app
+#npm create vite my app
+
+#cd /my-app
+
+#pnpm install
+#npm install
+
+
+#pnpm run dev
+#npm run dev
